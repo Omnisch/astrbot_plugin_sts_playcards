@@ -179,7 +179,7 @@ card_dict = {
     "Heatsinks": [ "Heatsinks", "散热片", "散热" ],
     "Heavy_Blade": [ "Heavy Blade", "HeavyBlade", "重刃", "劈", "大刀" ],
     "Heel_Hook": [ "Heel Hook", "HeelHook", "足跟勾" ],
-    "Hello_World": [ "Hello World", "Hello, World", "HelloWorld", "你好，世界", "你好" ],
+    "Hello_World": [ "Hello World", "Hello, World", "HelloWorld", "你好，世界" ],
     "Hemokinesis": [ "Hemokinesis", "御血术" ],
     "Hologram": [ "Hologram", "全息影像", "全息", "耸肩" ],
     "Hyperbeam": [ "Hyperbeam", "超能光束", "射爆", "光束", "射线" ],
