@@ -1,0 +1,26 @@
+{
+  "enabled": {
+    "type": "bool",
+    "description": "是否启用插件",
+    "default": true
+  },
+  "session_whitelist": {
+    "type": "list",
+    "description": "会话白名单 (仅这些 session_id 会触发)。留空表示不监听任何会话。",
+    "hint": "session_id 取自 event.message_obj.session_id。建议先日志打印确认。",
+    "default": [],
+    "items": {
+      "type": "string"
+    }
+  },
+  "case_sensitive": {
+    "type": "bool",
+    "description": "匹配时是否区分大小写",
+    "default": true
+  },
+  "first_match_only": {
+    "type": "bool",
+    "description": "命中多个 key 时是否只触发一次 (取第一个命中的 key)",
+    "default": true
+  }
+}
