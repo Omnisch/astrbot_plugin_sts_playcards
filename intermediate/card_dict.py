@@ -182,7 +182,7 @@ card_dict = {
     "Hello_World": [ "Hello World", "Hello, World", "HelloWorld", "你好，世界", "你好" ],
     "Hemokinesis": [ "Hemokinesis", "御血术" ],
     "Hologram": [ "Hologram", "全息影像", "全息", "耸肩" ],
-    "Hyperbeam": [ "Hyperbeam", "超能光束", "光束", "射线" ],
+    "Hyperbeam": [ "Hyperbeam", "超能光束", "射爆", "光束", "射线" ],
     "Immolate": [ "Immolate", "燔祭" ],
     "Impatience": [ "Impatience", "急躁", "抽牌" ],
     "Impervious": [ "Impervious", "岿然不动", "坚不可摧", "小金人" ],
