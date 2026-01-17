@@ -11,7 +11,7 @@ from astrbot.api.star import Context, Star, register
 
 # 尝试导入 rev_dict
 try:
-    from rev_dict import rev_dict  # type: ignore
+    from .rev_dict import rev_dict  # type: ignore
 except Exception as e:
     rev_dict = {}
     logger.exception(f"[STS Playcards] Failed to import rev_dict from rev_dict.py: {e}")
